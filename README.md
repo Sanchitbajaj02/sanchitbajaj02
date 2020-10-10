@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/-git-F05033?&style=flat-square&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-html-DD4B25?&style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-html-F1662B?&style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-css-146DAF?&style=flat-square&logo=css3&logoColor=white"/>
 </div>
 

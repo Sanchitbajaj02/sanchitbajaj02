@@ -1,12 +1,13 @@
 ## Hi there, I'm Sanchit 👋
 
+
 <div>
     <img src="https://komarev.com/ghpvc/?username=sanchitbajaj02&color=blue&logo=flat-square">
     <img src="https://img.shields.io/badge/sanchitbajaj02-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/sanchit-bajaj-123826194/">
     <img src="https://img.shields.io/badge/sbajaj_02-black?style=flat-square&logo=Instagram&logoColor=pink&link=https:https:https:/www.instagram.com/sbajaj_02/">
     <img src="https://img.shields.io/badge/sanchitbajaj02-black?style=flat-square&logo=Twitter&logoColor=blue&link=https:https:https://twitter.com/sanchitbajaj02">
 </div>
-
+<br></br>
 
 - 🔭 I’m currently working on to brushing up my skills
 - 🌱 I’m currently learning Python and JavaScript
@@ -14,10 +15,9 @@
 - 💬 Ask me about C, C++ and JavaScript
 - 📫 How to reach me: <a href="mailto:sanchit02@outlook.com">sanchit02@outlook.com</a>
 - ⚡ Fun fact: Appolo-11 mission uses only 4KB RAM to reach on moon
+<br></br>
 
-
-<h3 align="center">My Working Stack</h3><hr>
-
+## My Working Stack:
 <div align="center">
     <img src="https://img.shields.io/badge/-C++-2D0063?&style=flat-square&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/-C-00599C?&style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -33,6 +33,8 @@
     <img src="https://img.shields.io/badge/-git-F05033?&style=flat-square&logo=git&logoColor=white"/>
 </div>
 
+
+## My Statistics:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true"/><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true"/>

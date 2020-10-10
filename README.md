@@ -1,11 +1,9 @@
 ## Hi there, I'm Sanchit 👋
 
-<div align="center">
+<div>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanchitbajaj02%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false"/></a>
-
-![Linkedin Badge](https://img.shields.io/badge/sanchitbajaj02-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/sanchit-bajaj-123826194/)
+    <img src="https://img.shields.io/badge/sanchitbajaj02-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/sanchit-bajaj-123826194/">
 </div>
-
 
 
 - 🔭 I’m currently working on to brushing up my skills
@@ -15,7 +13,8 @@
 - 📫 How to reach me: <a href="mailto:sanchit02@outlook.com">sanchit02@outlook.com</a>
 - ⚡ Fun fact: Appolo-11 mission uses only 4KB RAM to reach on moon
 
-### My Working Stack
+
+<h3 align="center">My Working Stack</h3><hr>
 
 <div align="center">
     <img src="https://img.shields.io/badge/-C++-2D0063?&style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -32,6 +31,8 @@
     <img src="https://img.shields.io/badge/-git-F05033?&style=flat-square&logo=git&logoColor=white"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02"/>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true"/>  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02"/>
+</div>
 <!-- - 🤔 I’m looking for help with  -->

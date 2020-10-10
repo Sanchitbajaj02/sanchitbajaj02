@@ -13,14 +13,24 @@
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Appolo-11 mission uses only 4KB RAM to reach on moon
 
-<hr>
-Connect with me on my socials:
-<hr>
+---
 
-<p align="center">
+Connect with me on my socials:
+[<img width="30px" alt="Instagram" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>][instagram]&emsp;
+[<img width="30px" alt="Twitter" src="https://img.icons8.com/fluent/50/000000/twitter.png"/>][twitter]&emsp;
+[<img width="30px" alt="Github" src="https://img.icons8.com/fluent/48/000000/github.png"/>][github]&emsp;
+[<img width="30px" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]&emsp;
+
+---
+
 Some of my Statistics:<br>
 <img src="https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&theme=radical">
 
 My most used languages:<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02">
-</p>
+
+
+[instagram]: https://www.instagram.com/sbajaj_02/
+[twitter]: https://twitter.com/sanchitbajaj02
+[github]: https://github.com/Sanchitbajaj02
+[linkedin]: https://www.linkedin.com/in/sanchit-bajaj-123826194/

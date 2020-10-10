@@ -18,9 +18,9 @@ Connect with me on my socials:
 <hr>
 
 <p align="center">
-Some of my Statistics:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&theme=radical)
+Some of my Statistics:<br>
+(https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&theme=radical)
 
-My most used languages:
+My most used languages:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02)](https://github.com/anuraghazra/github-readme-stats)
 </p>

@@ -21,19 +21,19 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/-C++-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
-    <img src="https://img.shields.io/badge/-C-000000?&style=flat&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java" />
-    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" />
+    <img src="https://img.shields.io/badge/-C-000000?&style=flat&logo=c%2B%2B&logoColor=5968BA" />
+    <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F44336" />
+    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" />
     <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5&logoColor=E44D26"/>
     <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
     <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" />
     <img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=E53935">
-    <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=73AA63"/>
-<!--     <img src="https://img.shields.io/badge/-NPM-000000?&style=flat&logo=npm&logoColor=CB3837"/> -->
-    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=8AC149"/>
+    <img src="https://img.shields.io/badge/-NPM-000000?&style=flat&logo=npm&logoColor=CB3837"/>
+    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=E6892E" />
+    <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=4AAA3C" />
+    <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
 </div>
 
 <br>

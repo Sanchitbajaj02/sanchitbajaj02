@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/sanchitbajaj02-black?style=flat&logo=Twitter&logoColor=blue&link=https:https:https://twitter.com/sanchitbajaj02)](https://twitter.com/sanchitbajaj02)
 [![Instagram](https://img.shields.io/badge/sbajaj_02-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/www.instagram.com/sbajaj_02/)](https://www.instagram.com/sbajaj_02/)
 
-<br></br>
+<br>
 
 - 🔭 I’m currently working on to brushing up my skills
 - 🌱 I’m currently learning Python and JavaScript
@@ -14,7 +14,8 @@
 - 💬 Ask me about C, C++ and JavaScript
 - 📫 How to reach me: <a href="mailto:sanchit02@outlook.com">sanchit02@outlook.com</a>
 - ⚡ Fun fact: Appolo-11 mission uses only 4KB RAM to reach on moon
-  <br></br>
+
+<br>
 
 ## My Working Stack:
 
@@ -33,10 +34,10 @@
     <img src="https://img.shields.io/badge/-git-F05033?&style=flat&logo=git&logoColor=white"/>
 </div>
 
+<br>
+
 ## My Statistics:
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true"/><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true"/>
-</p>
+[![My Stats](https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/Sanchitbajaj02?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&layout=compact&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f)](https://github.com/Sanchitbajaj02?tab=repositories)
 <!-- - 🤔 I’m looking for help with  -->

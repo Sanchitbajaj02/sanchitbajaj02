@@ -20,18 +20,20 @@
 ## My Working Stack:
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-C++-2D0063?&style=flat&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/-C-00599C?&style=flat&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java" />
-    <img src="https://img.shields.io/badge/-Python-1E415D?style=flat&logo=python" />
-    <img src="https://img.shields.io/badge/-HTML-F1662B?&style=flat&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS-146DAF?&style=flat&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222222" />
+    <img src="https://img.shields.io/badge/-C++-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
+    <img src="https://img.shields.io/badge/-C-000000?&style=flat&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java" />
+    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" />
+    <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5&logoColor=E44D26"/>
+    <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
+    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
     <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?&style=flat&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/-git-F05033?&style=flat&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=E53935">
+    <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=73AA63"/>
+<!--     <img src="https://img.shields.io/badge/-NPM-000000?&style=flat&logo=npm&logoColor=CB3837"/> -->
+    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=white"/>
 </div>
 
 <br>

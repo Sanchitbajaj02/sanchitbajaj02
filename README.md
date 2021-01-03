@@ -45,6 +45,6 @@
 
 ## My Statistics:
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/Sanchitbajaj02?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&layout=compact&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f)](https://github.com/Sanchitbajaj02?tab=repositories)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/Sanchitbajaj02?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f)](https://github.com/Sanchitbajaj02?tab=repositories)
 <!-- - 🤔 I’m looking for help with  -->

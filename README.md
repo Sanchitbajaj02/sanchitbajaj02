@@ -3,7 +3,6 @@
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://sanchitbajaj02.github.io/portfolio/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=sanchitbajaj02&color=blue&logo=flat)
 [![Linkedin](https://img.shields.io/badge/sanchitbajaj02-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/sanchit-bajaj-123826194/)](https://www.linkedin.com/in/sanchit-bajaj-123826194/)
-[![Twitter](https://img.shields.io/badge/sanchitbajaj02-black?style=flat&logo=Twitter&logoColor=blue&link=https:https:https://twitter.com/sanchitbajaj02)](https://twitter.com/sanchitbajaj02)
 [![Instagram](https://img.shields.io/badge/sbajaj_02-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/www.instagram.com/sbajaj_02/)](https://www.instagram.com/sbajaj_02/)
 
 <br>

@@ -17,6 +17,10 @@
 
 <br>
 
+## Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## My Working Stack:
 
 <div align="center">

@@ -13,13 +13,15 @@
 - 👯 I’m looking to collaborate on JavaScript projects
 - 💬 Ask me about C, C++ and JavaScript
 - 📫 How to reach me: <a href="mailto:sanchit02@outlook.com">sanchit02@outlook.com</a>
-- ⚡ Fun fact: Appolo-11 mission uses only 4KB RAM to reach on moon
-
-<br>
+- ⚡ QWERTY was designed to slow you down
+- 🤔 I’m looking for help with nextjs
+<br/>
 
 ## Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<a href="https://github.com/sanchitbajaj02">
+  <img width="1000" src="https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&column=8&theme=dracula&no-frame=true"/>
+</a>
+<br/>
 
 ## My Working Stack:
 
@@ -44,11 +46,19 @@
     <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
     <img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FBC02D" />
 </div>
-
-<br>
+<br/>
 
 ## My Statistics:
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/Sanchitbajaj02?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f)](https://github.com/Sanchitbajaj02?tab=repositories)
-<!-- - 🤔 I’m looking for help with  -->
+<a href="https://github.com/Sanchitbajaj02?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/Sanchitbajaj02?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&layout=compact&theme=dracula&count_private=true&include_all_commits=true" />
+</a>
+
+<!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true&include_all_commits=true)](https://github.com/Sanchitbajaj02?tab=repositories)
+-->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f)](https://github.com/Sanchitbajaj02?tab=repositories)
+-->

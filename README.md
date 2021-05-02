@@ -16,14 +16,7 @@
 - ⚡ QWERTY was designed to slow you down
   <br/>
 
-## Achievements
-
-<a href="https://github.com/sanchitbajaj02">
-  <img width="1000" src="https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true"/>
-</a>
-<br/>
-
-## My Working Stack:
+## Working Stack:
 
 <div align="center">
     <img src="https://img.shields.io/badge/-C++-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
@@ -50,20 +43,54 @@
 </div>
 <br/>
 
-## My Statistics:
+## Statistics
 
-<a href="https://github.com/Sanchitbajaj02?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
+<div align="center">
+  
+  ### Trophies
+
+  [![Sanchit's Trophy](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true)](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true)
+
+  ### Github Stats
+
+  [![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/Sanchitbajaj02?tab=repositories)
+
+  ### Top Languages
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&theme=dracula)
+
+  ### Streak
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanchitbajaj02&theme=dracula)](https://git.io/streak-stats)
+
+  ### Graph
+
+  [![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)
+
+</div>
+
+<!--
+<a href="https://github.com/sanchitbajaj02">
+  <img width="1000" src="https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true"/>
 </a>
-<a href="https://github.com/Sanchitbajaj02?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&theme=dracula" />
-</a>
+-->
 
-<br/>
-
+<!--
 <a href="https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula">
 </a>
+-->
+
+<!--
+<a href="https://github.com/Sanchitbajaj02?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
+</a>-->
+
+<!--
+<a href="https://github.com/Sanchitbajaj02?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&theme=dracula" />
+</a>
+-->
 
 <!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true&include_all_commits=true)](https://github.com/Sanchitbajaj02?tab=repositories)
 -->

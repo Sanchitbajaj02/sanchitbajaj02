@@ -16,7 +16,7 @@
 - ⚡ QWERTY was designed to slow you down
   <br/>
 
-**Check your GitHub Stats by clicking [Here](https://github-finder-six-woad.vercel.app/)**
+### Check your GitHub Stats by clicking [Here](https://github-finder-six-woad.vercel.app/)
 
 ## Working Stack:
 

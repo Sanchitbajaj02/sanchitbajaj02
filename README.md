@@ -1,110 +1,73 @@
-## Hi there, I'm Sanchit 👋
+<h1 align="center">Hi 👋, I'm Sanchit</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-[![Portfolio](https://img.shields.io/website?color=green&label=Portfolio&style=flat&up_message=Online&url=https://sanchitbajaj02.github.io/portfolio/)](https://sanchitbajaj02.github.io/portfolio/)
-![Visitor Count](https://komarev.com/ghpvc/?username=sanchitbajaj02&color=green&logo=flat)
-[![Linkedin](https://img.shields.io/badge/sanchitbajaj02-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/sanchitbajaj02/)](https://www.linkedin.com/in/sanchitbajaj02/)
-[![Instagram](https://img.shields.io/badge/sbajaj_02-black?style=flat&logo=Instagram&logoColor=pink&target=_blank&link=https://www.instagram.com/sbajaj_02/)](https://www.instagram.com/sbajaj_02/)
-
-<br>
-
-- 🔭 I’m currently working on to brushing up my skills
-- 🌱 I’m currently learning Python and JavaScript
-- 👯 I’m looking to collaborate on JavaScript projects
-- 💬 Ask me about C, C++ and JavaScript
-- 📫 How to reach me: <a href="mailto:sanchit02@outlook.com">sanchit02@outlook.com</a>
-- 🤔 I’m looking for help with nextjs
-- ⚡ QWERTY was designed to slow you down
-  <br/>
-
-### Check your GitHub Stats by clicking [Here](https://github-finder-six-woad.vercel.app/)
-
-## Working Stack:
-
-<div align="center">
-    <img src="https://img.shields.io/badge/-C++-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
-    <img src="https://img.shields.io/badge/-C-000000?&style=flat&logo=c&logoColor=5968BA" />
-    <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F44336" />
-    <img src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=F57C00" />
-    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" /> <br>
-    <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5"/>
-    <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
-    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
-    <img src="https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=1E87E3" />
-    <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" />
-    <img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=E53935">
-    <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=8AC149"/>
-    <img src="https://img.shields.io/badge/-NPM-000000?&style=flat&logo=npm&logoColor=CB3837"/>
-    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=E6892E" />
-    <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=4AAA3C" /> <br>
-    <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
-    <img src="https://img.shields.io/badge/-Gitpod-000000?style=flat&logo=gitpod&logoColor=29B4F4" />
-    <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
-    <img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FBC02D" />
-    <img src="https://img.shields.io/badge/-Repl-000000?style=flat&logo=repl.it&logoColor=E1E2E4" />
-    <img src="https://img.shields.io/badge/-vscode-000000?style=flat&logo=visual-studio-code&logoColor=2BA1F1" />
-</div>
 <br/>
 
-<!--
-00FF00
-FFFF00
-000000
--->
+[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://sanchitbajaj02.github.io/portfolio/)](https://sanchitbajaj02.github.io/portfolio/)
+![Visitor Count](https://komarev.com/ghpvc/?username=sanchitbajaj02&color=blue&logo=flat)
 
-## Statistics
+- 🔭 I’m currently working on **brushing up my skills**
 
-<div align="center">
-  
-  ### Trophies
+- 🌱 I’m currently learning **Full Stack Development with Industrial Procedures**
 
-  [![Sanchit's Trophy](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true&theme=juicyfresh)](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true&theme=juicyfresh)
+- 👯 I’m looking to collaborate on **Full-stack projects**
 
-  ### Github Stats
+- 🤝 I’m looking for help with **learning Data Structures**
 
-  [![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&count_private=true&include_all_commits=true&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000)](https://github.com/Sanchitbajaj02?tab=repositories)
+- ⚡ Fun Fact: QWERTY was designed to slow you down
 
-  ### Top Languages
+<!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://sanchitbajaj02.github.io/portfolio/) -->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&hide=asp,makefile&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000)
-  
-  ### Streak
+- 💬 Ask me about **Reactjs, Nodejs, C, C++, Python, Web Design**
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanchitbajaj02&theme=chartreuse-dark)](https://git.io/streak-stats)
+- 📫 How to reach me **sanchit02@outlook.com**
 
-  ### Graph
+## Check your GitHub Stats by clicking [Here](https://github-finder-six-woad.vercel.app/)
 
-  [![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&&bg_color=000000&color=00FF00&line=FFFF00&point=00ADFE&area=true)](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)
+<br/>
 
-</div>
+## Connect with me:
 
-<!--
-<a href="https://github.com/sanchitbajaj02">
-  <img width="1000" src="https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true"/>
-</a>
--->
+<p align="left">
+<a href="https://dev.to/sanchitbajaj02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sanchitbajaj02" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanchitbajaj02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanchitbajaj02" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sbajaj_02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sbajaj_02" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17444026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17444026" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sanchitbajaj02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanchitbajaj02" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sanchitbajaj02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanchitbajaj02" height="30" width="40" /></a>
+</p>
 
-<!--
-<a href="https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula">
-</a>
--->
+## Languages and Tools:
 
-<!--
-<a href="https://github.com/Sanchitbajaj02?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
-</a>-->
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br/>
 
-<!--
-<a href="https://github.com/Sanchitbajaj02?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&theme=dracula" />
-</a>
--->
+## 🏆 GitHub Profile Trophy
 
-<!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true&include_all_commits=true)](https://github.com/Sanchitbajaj02?tab=repositories)
- -->
- 
- 
-<!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000&count_private=true&include_all_commits=true)](https://github.com/Sanchitbajaj02?tab=repositories) -->
+<p align="left"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1" alt="sanchitbajaj02" />
+</p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&layout=compact&show_icons=true&title_color=fe6287&icon_color=21e6c1&text_color=21e6c1&bg_color=0a192f)](https://github.com/Sanchitbajaj02?tab=repositories) -->
+## 🏆 Top Languages
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchitbajaj02&count_private=true&show_icons=true&locale=en&layout=compact&include_all_commits=true&hide=asp,makefile" alt="sanchitbajaj02" />
+</p>
+
+## 🏆 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&locale=en&show_icons=true&count_private=true&include_all_commits=true" alt="sanchitbajaj02" />
+</p>
+
+## 🏆 GitHub Streaks
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitbajaj02&&ring=5194F0&fire=5194F0&currStreakLabel=5194F0" alt="sanchitbajaj02" />
+</p>
+
+## 🏆 Activity Graph
+
+<p align="left">
+  <img src="https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&bg_color=ffffff&color=5194F0&line=5194F0&area=true&area_color=D5E5FA" alt="sanchitbajaj02" />
+</p>

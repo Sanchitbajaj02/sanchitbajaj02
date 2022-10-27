@@ -26,6 +26,10 @@
 
 <br/>
 
+## Holopin board
+
+[![@sanchitbajaj02's Holopin board](https://holopin.me/sanchitbajaj02)](https://holopin.io/@sanchitbajaj02)
+
 ## Connect with me:
 
 <p align="left">
@@ -45,7 +49,7 @@
 ## 🏆 GitHub Profile Trophy
 
 <p align="left"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1" alt="sanchitbajaj02" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&m=5" alt="sanchitbajaj02" />
 </p>
 
 ## 🏆 Top Languages

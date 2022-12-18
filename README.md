@@ -72,6 +72,10 @@
 
 ## 🏆 Activity Graph
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&bg_color=ffffff&color=5194F0&line=5194F0&area=true&area_color=D5E5FA" alt="sanchitbajaj02" />
+</p> -->
+
+<p align="let">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanchitbajaj02&bg_color=ffffff&color=000111&line=5194f0&point=000000&area=true&hide_border=true" alt="sanchitbajaj02" />
 </p>

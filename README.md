@@ -6,23 +6,23 @@
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://sanchitbajaj02.github.io/portfolio/)](https://sanchitbajaj02.github.io/portfolio/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=sanchitbajaj02&color=blue&logo=flat)
 
-- 🔭 I’m currently working on **brushing up my skills**
+- 🔭 I’m currently working on **brushing up my skills to copup with evergrowing IT industry.**
 
-- 🌱 I’m currently learning **Full Stack Development with Industrial Procedures**
+- 🌱 I’m currently learning **Data Structures and Algorithms along with many different full-stack technologies.**
 
-- 👯 I’m looking to collaborate on **Full-stack projects**
+- 👯 I’m looking to collaborate on **Projects that enhances my knowledge and bring growth to the clients.**
 
-- 🤝 I’m looking for help with **learning Data Structures**
+- 🤝 I’m looking for help with **learning Data Structures and Algorithms.**
 
 - ⚡ Fun Fact: QWERTY was designed to slow you down
 
 <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://sanchitbajaj02.github.io/portfolio/) -->
 
-- 💬 Ask me about **Reactjs, Nodejs, C, C++, Python, Web Design**
+- 💬 Ask me about **Reactjs, Nodejs, C, C++, Python, Web Design, App Development**
 
 - 📫 How to reach me **sanchit02@outlook.com**
 
-## Check your GitHub Stats by clicking [Here](https://github-finder-six-woad.vercel.app/)
+## Check your GitHub Stats by clicking [Here](https://github-finder.sanchitbajaj02.me)
 
 <br/>
 

@@ -31,6 +31,7 @@
 [![@sanchitbajaj02's Holopin board](https://holopin.me/sanchitbajaj02)](https://holopin.io/@sanchitbajaj02)
 
 ## Connect with me:
+[![Discord](https://discord.c99.nl/widget/theme-2/704721578029744299.png)](https://discordapp.com/users/solitrx02#0202)
 
 <p align="left">
 <a href="https://dev.to/sanchitbajaj02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sanchitbajaj02" height="30" width="40" /></a>
@@ -76,6 +77,9 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&bg_color=ffffff&color=5194F0&line=5194F0&area=true&area_color=D5E5FA" alt="sanchitbajaj02" />
 </p> -->
 
-<p align="let">
+### Server Down 😓
+<!-- <p align="left">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanchitbajaj02&bg_color=ffffff&color=000111&line=5194f0&point=000000&area=true&hide_border=true" alt="sanchitbajaj02" />
+
 </p>
+ -->

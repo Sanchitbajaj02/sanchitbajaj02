@@ -56,13 +56,13 @@
 ## 🏆 Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchitbajaj02&count_private=true&show_icons=true&locale=en&layout=compact&include_all_commits=true&hide=asp,makefile" alt="sanchitbajaj02" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchitbajaj02&count_private=true&show_icons=true&locale=en&layout=donut&include_all_commits=true&hide=asp,makefile" alt="sanchitbajaj02" />
 </p>
 
 ## 🏆 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&locale=en&show_icons=true&count_private=true&include_all_commits=true" alt="sanchitbajaj02" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&locale=en&show_icons=true&count_private=true&include_all_commits=true" alt="sanchitbajaj02" />
 </p>
 
 ## 🏆 GitHub Streaks
@@ -73,13 +73,8 @@
 
 ## 🏆 Activity Graph
 
-<!-- <p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&bg_color=ffffff&color=5194F0&line=5194F0&area=true&area_color=D5E5FA" alt="sanchitbajaj02" />
-</p> -->
-
-### Server Down 😓
-<!-- <p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanchitbajaj02&bg_color=ffffff&color=000111&line=5194f0&point=000000&area=true&hide_border=true" alt="sanchitbajaj02" />
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanchitbajaj02&bg_color=ffffff&color=000111&line=5194f0&point=000000&area=true&hide_border=true&area_color=D5E5FA" alt="sanchitbajaj02" />
 
 </p>
- -->
+

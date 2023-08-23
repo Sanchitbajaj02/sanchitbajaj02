@@ -10,17 +10,22 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms along with many different full-stack technologies.**
 
+- 💬 Feel free to DM me to discuss about projects and share innovative ideas.
+
 - 👯 I’m looking to collaborate on **Projects that enhances my knowledge and bring growth to the clients.**
 
 - 🤝 I’m looking for help with **learning Data Structures and Algorithms.**
+
+- 💻 Researching about different Web, App & Blockchain development applications and utilities.
 
 - ⚡ Fun Fact: QWERTY was designed to slow you down
 
 <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://sanchitbajaj02.github.io/portfolio/) -->
 
-- 💬 Ask me about **Reactjs, Nodejs, C, C++, Python, Web Design, App Development**
+<!-- - 💬 Ask me about **Reactjs, Nodejs, C, C++, Python, Web Design, App Development** -->
 
 - 📫 How to reach me **sanchit02@outlook.com**
+
 
 ## Check your GitHub Stats by clicking [Here](https://github-finder.sanchitbajaj02.me)
 
@@ -53,10 +58,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&m=5" alt="sanchitbajaj02" />
 </p>
 
+
 ## 🏆 Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchitbajaj02&count_private=true&show_icons=true&locale=en&layout=donut&include_all_commits=true&hide=asp,makefile" alt="sanchitbajaj02" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchitbajaj02&count_private=true&show_icons=true&locale=en&layout=compact&include_all_commits=true&hide=asp,makefile" alt="sanchitbajaj02" />
 </p>
 
 ## 🏆 GitHub Stats

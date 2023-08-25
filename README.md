@@ -35,6 +35,11 @@
 
 [![@sanchitbajaj02's Holopin board](https://holopin.me/sanchitbajaj02)](https://holopin.io/@sanchitbajaj02)
 
+## My Appwrite Card
+<a href="https://cloud.appwrite.io/card/64685b62d75e7a33cf83">
+	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64685b62d75e7a33cf83" alt="Appwrite Cloud Card" />
+</a>
+
 ## Connect with me:
 [![Discord](https://discord.c99.nl/widget/theme-2/704721578029744299.png)](https://discordapp.com/users/solitrx02#0202)
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanchit</h1>
+<h1 align="center">Hi Developers👋, I'm Sanchit Bajaj</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <br/>
@@ -7,29 +7,21 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=sanchitbajaj02&color=blue&logo=flat)
 
 - 🔭 I’m currently working on **brushing up my skills to copup with evergrowing IT industry.**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms along with many different full-stack technologies.**
-
 - 💬 Feel free to DM me to discuss about projects and share innovative ideas.
-
 - 👯 I’m looking to collaborate on **Projects that enhances my knowledge and bring growth to the clients.**
-
 - 🤝 I’m looking for help with **learning Data Structures and Algorithms.**
-
 - 💻 Researching about different Web, App & Blockchain development applications and utilities.
-
 - ⚡ Fun Fact: QWERTY was designed to slow you down
 
 <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://sanchitbajaj02.github.io/portfolio/) -->
 
 <!-- - 💬 Ask me about **Reactjs, Nodejs, C, C++, Python, Web Design, App Development** -->
 
-- 📫 How to reach me **sanchit02@outlook.com**
+<!-- - 📫 How to reach me **sanchit02@outlook.com** -->
 
 
 ## Check your GitHub Stats by clicking [Here](https://github-finder.sanchitbajaj02.me)
-
-<br/>
 
 ## Holopin board
 

@@ -36,9 +36,10 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchitbajaj02)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/solitrix02)
+[![X](https://img.shields.io/badge/Twitter/X-black.svg?logo=X&logoColor=white)](https://x.com/solitrix02)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sbajaj_02)
-[![Dev to](https://img.shields.io/badge/Dev.to-black.svg?logo=dev.to&logoColor=white)](https://dev.to/sanchitbajaj02)
+[![Dev to](https://img.shields.io/badge/Dev.to-black.svg?logo=dev.to&logoColor=white)](https://dev.to/solitrix02)
+[![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF.svg?logo=hashnode&logoColor=white)](https://solitrix02.hashnode.dev/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17444026)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/solitrx02#0202)
 

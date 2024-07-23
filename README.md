@@ -1,6 +1,6 @@
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="c633c20ede82f0e0ced7d570dbe3a1f3" title="sanchitbajaj02" width="75%" />
 
-<h1>Hi Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">, I'm Sanchit Bajaj</h1>
+<h1>Hi Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">, I'm Sanchit Bajaj</h1>
 <br/>
 
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://sanchitbajaj02.github.io/portfolio/)](https://sanchitbajaj02.github.io/portfolio/)
@@ -39,7 +39,6 @@
 [![X](https://img.shields.io/badge/Twitter/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/solitrix02)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/sbajaj_02)
 [![Dev to](https://img.shields.io/badge/Dev.to-black.svg?logo=dev.to&logoColor=white&style=for-the-badge)](https://dev.to/solitrix02)
-
 [![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF.svg?logo=hashnode&logoColor=white&style=for-the-badge)](https://solitrix02.hashnode.dev/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/17444026)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/solitrx02#0202)
@@ -104,7 +103,8 @@
 
 ## 📊 LeetCode Statistics:
 
-![Leetcode Statistics](https://stats.justsong.cn/api/leetcode/?username=sanchitbajaj02&theme=gotham)
+<!--![Leetcode Statistics](https://stats.justsong.cn/api/leetcode/?username=sanchitbajaj02&theme=dark)-->
+![Leetcode Statistics](https://leetcard.jacoblin.cool/sanchitbajaj02?theme=dark&ext=heatmap)
 
 ## 📊 GitHub Statistics:
 

@@ -3,21 +3,21 @@
 <h1>Hi Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">, I'm Sanchit Bajaj</h1>
 <br/>
 
-[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://sanchitbajaj02.github.io/portfolio/)](https://sanchitbajaj02.github.io/portfolio/)
+<!--[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://sanchitbajaj02.github.io/portfolio/)](https://sanchitbajaj02.github.io/portfolio/)-->
 ![Visitor Count](https://komarev.com/ghpvc/?username=sanchitbajaj02&color=blue&logo=flat)
 
 ## 👨🏻‍💻 About me
 
 - 🔭 I’m currently working on **brushing up my skills to copup with evergrowing IT industry.**
-- 🌱 I’m currently learning **WebRTC and Web Sockets**
-- 💬 Feel free to contact me to discuss about projects and share innovative ideas <a href="https://discordapp.com/users/solitrx02#0202">here</a>.
+- 🌱 I’m currently learning **Web Sockets, System Design, RAG & Generative AI, HLD & Product Engineering**
+- 💬 Feel free to contact me to discuss about projects and share innovative ideas <a href="https://discordapp.com/users/solitrix02#0202">at Discord</a>.
 - 👯 I’m looking to collaborate on **Projects that enhances my knowledge and bring growth to the clients.**
 - 🤝 I’m looking for help with **learning Data Structures and Algorithms.**
 - 📫 How to reach me **sanchit02@outlook.com**
-  <!-- - 💻 Researching about different Web, App & Blockchain development applications and utilities. -->
+- 💻 Researching about different **Web**, **Mobile App**, **Generative AI** & **Blockchain** development
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sanchit.is-a.dev)
   <!-- - ⚡ Fun Fact: QWERTY was designed to slow you down -->
 
-<!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://sanchitbajaj02.github.io/portfolio/) -->
 
 <!-- - 💬 Ask me about **Reactjs, Nodejs, C, C++, Python, Web Design, App Development** -->
 
@@ -41,7 +41,7 @@
 [![Dev to](https://img.shields.io/badge/Dev.to-black.svg?logo=dev.to&logoColor=white&style=for-the-badge)](https://dev.to/solitrix02)
 [![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF.svg?logo=hashnode&logoColor=white&style=for-the-badge)](https://solitrix02.hashnode.dev/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/17444026)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/solitrx02#0202)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/solitrix02#0202)
 
 <!-- ## Connect with me:
 
@@ -108,6 +108,9 @@
 
 ## 📊 GitHub Statistics:
 
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fsanchitbajaj021eea8.png?alt=media)
+
+<!--
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=5&row=1)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
@@ -119,3 +122,4 @@
 ![Github Activit Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanchitbajaj02&theme=react-dark)
 
 ![Github Contributed Repo](https://github-contributor-stats.vercel.app/api?username=sanchitbajaj02&limit=5&theme=react&combine_all_yearly_contributions=true)
+-->
